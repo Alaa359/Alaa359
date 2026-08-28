@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;This+is+Ala+Ameur...;Web+Developer+from+Tunisia;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Ala+Ameur...;Web+Developer+from+Tunisia;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/al%C3%A6-ameur-b52632363" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="https://github.com/Alaa359" title="GitHub Profile">GitHub</a></code>
-  <code><a href="mailto:alaameur33@gmail.com" title="Email">Email</a></code>
+  <a href="https://www.linkedin.com/in/al%C3%A6-ameur-b52632363" title="LinkedIn Profile"><img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://github.com/Alaa359" title="GitHub Profile"><img align="center" height="20" src="https://cdn.simpleicons.org/github/808080"></a>
+  <a href="mailto:alaameur33@gmail.com" title="Email"><img align="center" height="20" src="https://cdn.simpleicons.org/gmail/EA4335"></a>
 </h5>
 
 <br>
