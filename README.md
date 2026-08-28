@@ -2,17 +2,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ala+Ameur...;Web+Developer+from+Tunisia;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;This+is+Ala+Ameur...;Web+Developer+from+Tunisia;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/al%C3%A6-ameur-b52632363" title="LinkedIn Profile"> LinkedIn</a></code>
-  <code><a href="https://github.com/Alaa359" title="GitHub Profile"> GitHub</a></code>
-  <code><a href="mailto: alaameur33@gmail.com" title="Email"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/al%C3%A6-ameur-b52632363" title="LinkedIn Profile">LinkedIn</a></code>
+  <code><a href="https://github.com/Alaa359" title="GitHub Profile">GitHub</a></code>
+  <code><a href="mailto:alaameur33@gmail.com" title="Email">Email</a></code>
 </h5>
+
 <br>
+
 <p align="center">
   Hi, I'm Ala Ameur, Web Developer from Tunisia
   <br>
@@ -29,38 +30,38 @@
   <br>
   💬 Ask me anything about web development
   <br>
-  📫 How to reach me: <a href="mailto: alaameur33@gmail.com">alaameur33@gmail.com</a>
+  📫 How to reach me: <a href="mailto:alaameur33@gmail.com">alaameur33@gmail.com</a>
 </p>
 
-
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code>💡 Problem Solving</code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="JQuery" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
+  <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+  <code><img title="Flask" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
 </p>
-<hr>
 
+<hr>
 
 <h2 align="center">🚀 About Me 🚀</h2>
 <br>
@@ -73,8 +74,18 @@
   <br>
   and building projects that make a difference.
 </p>
+
 <hr>
 
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alaa359&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies">
+  </a>
+</p>
+
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -95,13 +106,10 @@
   </div>
   <br>
 
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaa359&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
 <hr>
-
 
 <h4 align="center">
   <a href="https://github.com/Alaa359?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
